@@ -2,6 +2,7 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 Drive link for Demonstration video and doc project :  https://drive.google.com/folderview?id=1Oy7RFfdrsQrQPpeycVix3JFgo3x-EpKs
+Google Developers Profile: https://g.dev/tanu13
 Name: Tanu Jain
 
 All Android Projects Module Wise that were given as task at end of module alongwith the "Final Project" : Grocery App
