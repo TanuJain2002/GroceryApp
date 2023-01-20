@@ -1,7 +1,6 @@
 # SI-GuidedProject-53883-1660901321
 Virtual Internship - Android Application Development Using Kotlin
 
-Drive link for Demonstration video and doc project :  https://drive.google.com/folderview?id=1Oy7RFfdrsQrQPpeycVix3JFgo3x-EpKs
 Google Developers Profile: https://g.dev/tanu13
 Name: Tanu Jain
 
